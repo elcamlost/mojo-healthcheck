@@ -1,0 +1,6 @@
+.carmel
+.tidyall.d
+cpanfile.snapshot
+local
+.build
+*.tar.gz
