@@ -1,6 +1,5 @@
 package Mojolicious::Plugin::HealthCheck;
-use Mojo::Base 'Mojolicious::Plugin';
-use experimental qw/signatures/;
+use Mojo::Base 'Mojolicious::Plugin', -signatures;
 
 our $VERSION = '0.01';
 

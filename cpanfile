@@ -1,4 +1,4 @@
-requires "Mojolicious" => "8";
+requires "Mojolicious" => "9";
 requires "perl" => "5.020";
 requires "HealthCheck" => "0";
 
